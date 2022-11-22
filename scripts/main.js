@@ -37,8 +37,8 @@ var team = [
   {
     name: "Jose Angelo Labrador",
     title: "Software Developer",
-    image: null,
-    details: null,
+    image: "images/team/angelo.jpg",
+    details: 'Hi I am Angelo a 3rd year student who is still struggling with coding',
   },
   {
     name: "Angelica Mae Escala",
