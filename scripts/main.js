@@ -43,8 +43,9 @@ var team = [
   {
     name: "Angelica Mae Escala",
     title: "Software Developer",
-    image: null,
-    details: null,
+    image: "images/team/escala.jpg",
+    details: 
+      "A third year Software Development student, living in Laon, Mogpog, Marinduque. I love playing basketball and I believe in saying that, “In order to be irreplaceable, one must always be different”.",
   },
 ];
 
